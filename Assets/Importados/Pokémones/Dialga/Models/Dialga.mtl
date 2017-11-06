@@ -1,0 +1,25 @@
+# Material Count: 2
+
+newmtl dialga
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.990000 0.990000 0.990000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/dialga.jpg
+map_Ka textures/dialga.jpg
+
+newmtl dialga_daiacolor
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.990000 0.990000 0.990000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/dialga_daiacolor.jpg
+map_Ka textures/dialga_daiacolor.jpg

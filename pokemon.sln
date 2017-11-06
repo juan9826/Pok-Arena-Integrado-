@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon", "pokemon.csproj", "{CC0FDBCB-F049-165F-2BD2-B8383DDBF069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon.Plugins", "pokemon.Plugins.csproj", "{DA0BA96A-0643-C93A-5939-7E512A9293FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon.Editor.Plugins", "pokemon.Editor.Plugins.csproj", "{4972E9F8-4ADE-0A9C-0018-F174D7FD0D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0FDBCB-F049-165F-2BD2-B8383DDBF069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0FDBCB-F049-165F-2BD2-B8383DDBF069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0FDBCB-F049-165F-2BD2-B8383DDBF069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0FDBCB-F049-165F-2BD2-B8383DDBF069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0BA96A-0643-C93A-5939-7E512A9293FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0BA96A-0643-C93A-5939-7E512A9293FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0BA96A-0643-C93A-5939-7E512A9293FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0BA96A-0643-C93A-5939-7E512A9293FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4972E9F8-4ADE-0A9C-0018-F174D7FD0D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4972E9F8-4ADE-0A9C-0018-F174D7FD0D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4972E9F8-4ADE-0A9C-0018-F174D7FD0D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4972E9F8-4ADE-0A9C-0018-F174D7FD0D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

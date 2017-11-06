@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: ba3ecbf2a17085048a7e6cc9e3ecd790
+timeCreated: 1507071013
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: EndHead
+    100004: EndJaw
+    100006: EndTail5
+    100008: Head
+    100010: Jaw
+    100012: //RootNode
+    100014: Origin
+    100016: pm0095_00
+    100018: pm0095_00_BodySkin
+    100020: pm0095_00_IrisSkin
+    100022: Spine1
+    100024: Spine2
+    100026: Spine3
+    100028: Spine4
+    100030: Spine5
+    100032: Spine6
+    100034: Spine7
+    100036: Spine8
+    100038: Tail1
+    100040: Tail2
+    100042: Tail3
+    100044: Tail4
+    100046: Tail5
+    100048: vsn_mesh_0_pm0095_00_BodySkin
+    100050: vsn_mesh_1_pm0095_00_BodySkin
+    100052: vsn_mesh_4_pm0095_00_BodySkin
+    100054: vsn_mesh_5_pm0095_00_BodySkin
+    100056: vsn_mesh_6_pm0095_00_IrisSkin
+    100058: vsn_mesh_7_pm0095_00_IrisSkin
+    100060: Waist
+    400000: Armature
+    400002: EndHead
+    400004: EndJaw
+    400006: EndTail5
+    400008: Head
+    400010: Jaw
+    400012: //RootNode
+    400014: Origin
+    400016: pm0095_00
+    400018: pm0095_00_BodySkin
+    400020: pm0095_00_IrisSkin
+    400022: Spine1
+    400024: Spine2
+    400026: Spine3
+    400028: Spine4
+    400030: Spine5
+    400032: Spine6
+    400034: Spine7
+    400036: Spine8
+    400038: Tail1
+    400040: Tail2
+    400042: Tail3
+    400044: Tail4
+    400046: Tail5
+    400048: vsn_mesh_0_pm0095_00_BodySkin
+    400050: vsn_mesh_1_pm0095_00_BodySkin
+    400052: vsn_mesh_4_pm0095_00_BodySkin
+    400054: vsn_mesh_5_pm0095_00_BodySkin
+    400056: vsn_mesh_6_pm0095_00_IrisSkin
+    400058: vsn_mesh_7_pm0095_00_IrisSkin
+    400060: Waist
+    4300000: vsn_mesh_0_pm0095_00_BodySkin
+    4300002: vsn_mesh_1_pm0095_00_BodySkin
+    4300004: vsn_mesh_4_pm0095_00_BodySkin
+    4300006: vsn_mesh_5_pm0095_00_BodySkin
+    4300008: vsn_mesh_6_pm0095_00_IrisSkin
+    4300010: vsn_mesh_7_pm0095_00_IrisSkin
+    9500000: //RootNode
+    13700000: vsn_mesh_0_pm0095_00_BodySkin
+    13700002: vsn_mesh_1_pm0095_00_BodySkin
+    13700004: vsn_mesh_4_pm0095_00_BodySkin
+    13700006: vsn_mesh_5_pm0095_00_BodySkin
+    13700008: vsn_mesh_6_pm0095_00_IrisSkin
+    13700010: vsn_mesh_7_pm0095_00_IrisSkin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
